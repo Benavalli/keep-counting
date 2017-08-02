@@ -1,6 +1,8 @@
 # keep-counting
 Web application using Django and Angular
 
-run pyvenv venv
-run source venv/bin/activate
-run pip install -r requirements.txt
+# Setup Environment
+
+   - Install Python 3
+   - run `pyvenv venv`
+   - run `source venv/bin/activate`
